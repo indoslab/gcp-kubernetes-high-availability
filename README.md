@@ -8,7 +8,7 @@
 
 ## Topology
 
-![kubernetes.io-screenshot](docs/images/kubernetes_HA.JPG)
+#![kubernetes.io-screenshot](docs/images/kubernetes_HA.JPG)
 source : kubernetes.io
 
 ## Topology GCP
