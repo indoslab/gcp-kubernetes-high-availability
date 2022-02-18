@@ -8,7 +8,7 @@
 
 ## Topology
 
-![kubernetes.io-screenshot](images/kubernetes_HA.JPG)
+![kubernetes.io-screenshot](docs/images/kubernetes_HA.JPG)
 
 ## Labs
 
