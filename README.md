@@ -1,5 +1,7 @@
 # GCP Kubernetes High Availability
 
+Based on [GCP 5G Simulation Using open5gs with Kubernetes High Availability](https://indoslab.medium.com/5g-simulation-using-open5gs-in-gcp-with-kubernetes-high-availability-c1323e1a48b1)
+
 * Self-managed Kubernetes High Availability in Google Compute Engine
 * This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster
 * GCE use because sctp needed for open5gs, GKE nodes do not support sctp, it was failed in GKE, if later GCP support sctp in GKE nodes, probably better to use GKE.
