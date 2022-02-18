@@ -8,11 +8,11 @@
 
 ## Topology
 
-#![kubernetes.io-screenshot](docs/images/kubernetes_HA.JPG)
+![kubernetes.io-screenshot](docs/images/kubernetes_HA.JPG)
 source : kubernetes.io
 
 ## Topology GCP
-![kubernetes.gcp-screenshot](docs/images/GCP K8S HA.png)
+![kubernetes.gcp-screenshot](docs/images/gcp_k8s_ha.png)
 
 
 ## Labs
