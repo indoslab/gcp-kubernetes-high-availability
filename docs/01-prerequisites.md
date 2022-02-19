@@ -30,4 +30,4 @@ gcloud version
 
 > Enable synchronize-panes by pressing `ctrl+b` followed by `shift+:`. Next type `set synchronize-panes on` at the prompt. To disable synchronization: `set synchronize-panes off`.
 
-Next: [Part 1](02-part-01.md)
+Next: [Part 1 - GCP login and Networking](02-part-01.md)
