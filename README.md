@@ -22,15 +22,15 @@ source : kubernetes.io
 This tutorial assumes you have access to the [Google Cloud Platform](https://cloud.google.com). While GCP is used for basic infrastructure requirements the lessons learned in this tutorial can be applied to other platforms.
 
 * [Prerequisites](docs/01-prerequisites.md)
-* [Part 1 - GCP login and Networking](02-part-01.md)
-* [Part 2 - Provisioning Compute Resources](03-part-02.md)
-* [Part 3 - Install Kubernetes](04-part-03.md)
-* [Part 4 - Install NGINX to Controllers and Load Balancer](05-part-04.md)
-* [Part 5 - The Kubernetes Frontend Load Balancer](06-part-05.md)
-* [Part 6 - Bootstrapping the Kubernetes Control Plane](07-part-06.md)
-* [Part 7 - Bootstrapping the Kubernetes Worker Nodes](08-part-07.md)
-* [Part 8 - Istio, helm and Rancher](09-part-08.md)
-* [Part 9 - Rook Ceph](10-part-09.md)
-* [Part 10 - Last step, Testing create PVC & POD](11-part-10.md)
+* [Part 1 - GCP login and Networking](docs/02-part-0docs/1.md)
+* [Part 2 - Provisioning Compute Resources](docs/03-part-02.md)
+* [Part 3 - Install Kubernetes](docs/04-part-03.md)
+* [Part 4 - Install NGINX to Controllers and Load Balancer](docs/05-part-04.md)
+* [Part 5 - The Kubernetes Frontend Load Balancer](docs/06-part-05.md)
+* [Part 6 - Bootstrapping the Kubernetes Control Plane](docs/07-part-06.md)
+* [Part 7 - Bootstrapping the Kubernetes Worker Nodes](docs/08-part-07.md)
+* [Part 8 - Istio, helm and Rancher](docs/09-part-08.md)
+* [Part 9 - Rook Ceph](docs/10-part-09.md)
+* [Part 10 - Last step, Testing create PVC & POD](docs/11-part-10.md)
 
 
