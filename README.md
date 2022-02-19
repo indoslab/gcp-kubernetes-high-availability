@@ -22,7 +22,7 @@ source : kubernetes.io
 This tutorial assumes you have access to the [Google Cloud Platform](https://cloud.google.com). While GCP is used for basic infrastructure requirements the lessons learned in this tutorial can be applied to other platforms.
 
 * [Prerequisites](docs/01-prerequisites.md)
-* [Part 1 - GCP login and Networking](docs/02-part-0docs/1.md)
+* [Part 1 - GCP login and Networking](docs/02-part-01.md)
 * [Part 2 - Provisioning Compute Resources](docs/03-part-02.md)
 * [Part 3 - Install Kubernetes](docs/04-part-03.md)
 * [Part 4 - Install NGINX to Controllers and Load Balancer](docs/05-part-04.md)
