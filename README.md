@@ -31,6 +31,9 @@ This tutorial assumes you have access to the [Google Cloud Platform](https://clo
 * [Part 7 - Bootstrapping the Kubernetes Worker Nodes](docs/08-part-07.md)
 * [Part 8 - Istio, helm and Rancher](docs/09-part-08.md)
 * [Part 9 - Rook Ceph](docs/10-part-09.md)
-* [Part 10 - Last step, Testing create PVC & POD](docs/11-part-10.md)
+* [Part 10 - Getting access to Rancher](docs/11-part-10.md)
+* [Part 11 - Getting access to Grafana](docs/12-part-11.md)
+* [Part 12 - Getting access to Istio Kiali Dashboard](docs/13-part-12.md)
+* [Part 13 - Testing create PVC & POD](docs/14-part-13.md)
 
 
