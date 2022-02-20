@@ -37,3 +37,12 @@ This tutorial assumes you have access to the [Google Cloud Platform](https://clo
 * [Part 13 - Testing create PVC & POD](docs/14-part-13.md)
 
 
+References:
+
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+https://assyafii.com/docs/install-kubernetes-cluster-multi-master-ha/
+
+https://assyafii.com/docs/deploy-storage-cluster-rook-with-ceph-in-kubernetes/
+
+https://rook.io/docs/rook/v1.7/
